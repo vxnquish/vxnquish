@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vxnquish
+- 👀 I’m interested in CSE
+- 🌱 I’m currently learning CS at CAU
