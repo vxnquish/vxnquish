@@ -24,27 +24,27 @@
 
 - **윷놀이 Game** (Spring 2025)  
   A faithful implementation of the traditional Korean board game using Java Swing & JavaFX, featuring full MVC architecture and custom board shapes.  
-  🔗 [Repository](https://github.com/vxnquish/CAU_YUTGAME)
+  🔗 [Repository](https://github.com/vxnquish/CAU_YUTGAME)  
 
 - **SLR(1) Parser** (Spring 2025)  
   Built in my Compilers course to parse and analyze context-free grammars using SLR(1) tables.  
-  🔗 [Repository](https://github.com/vxnquish/Compiler_SLR1)
+  🔗 [Repository](https://github.com/vxnquish/Compiler_SLR1)  
 
 - **lovemap** (Spring 2025)  
   An open-source, comprehensive dating platform built in my Open Source SW Project class.  
   Backend is currently N/A.  
-  🔗 [Repository](https://github.com/vxnquish/OSSW_Ready)
+  🔗 [Repository](https://github.com/vxnquish/OSSW_Ready)  
   🔗 [Site](https://rureadylovemap.com)  
 
-- **Tetris Game (React)** (Summer 2025)  
+- **Tetris Game** (Summer 2025)  
   A classic Tetris clone implemented in React, deployed via GitHub Pages.  
   🔗 [Repository](https://github.com/vxnquish/tetris-react)  
-  🔗 [Live Demo](https://vxnquish.github.io/tetris-react/)
+  🔗 [Live Demo](https://vxnquish.github.io/tetris-react/)  
 
-- **Project Expense** (Summer 2025)  
+- **ProjectExpense** (Summer 2025)  
   A simple, intuitive web app for tracking personal expenses.  
   🔗 [Frontend](https://github.com/vxnquish/expense-frontend)  
-  🔗 [Backend](https://github.com/vxnquish/expense-backend)
+  🔗 [Backend](https://github.com/vxnquish/expense-backend)  
 
 Browse all my repositories:  
 👉 https://github.com/vxnquish?tab=repositories  
