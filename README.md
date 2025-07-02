@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=27&duration=4000&pause=100&center=true&vCenter=true&random=true&width=435&lines=Qabin;Heejae+Lee;%40vxnquish;a+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=27&duration=4000&pause=100&center=true&vCenter=true&random=false&width=435&lines=Heejae+Lee;a.k.a.+Qabin;a+Full+Stack+Developer;%40vxnquish)](https://git.io/typing-svg)
 
 </div>
 
