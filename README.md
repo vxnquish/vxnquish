@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=27&duration=4000&pause=100&center=true&vCenter=true&random=false&width=435&lines=Heejae+Lee;a.k.a.+Qabin;a+Full+Stack+Developer;%40vxnquish)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=27&duration=4000&pause=100&center=true&vCenter=true&random=false&width=435&lines=Heejae+Lee;a.k.a.+Qabin;a+Full+Stack+Developer;%40vxnquish)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,8 +11,8 @@
 ## 🎓 About Me
 
 **Computer Science & Engineering Student @ Chung-Ang University**  
-🚀 Building experiences that bridge stunning frontend visuals with robust backend power  
-🌟 Passionate about crafting elegant, scalable solutions through clean code  
+🚀 Building experiences that bridge stunning frontend visuals with backend power  
+🌟 Passionate about crafting elegant solutions through clean code  
 💡 Always exploring cutting-edge technologies and contributing to open source  
 💪 Aspiring to become an exceptional Product Manager & Full Stack Developer
 
@@ -22,38 +22,44 @@
 
 ## 🌍 My Journey
 
-```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "primaryColor": "#36BCF7",
-    "primaryTextColor": "#ffffff",
-    "primaryBorderColor": "#1e40af",
-    "lineColor": "#36BCF7",
-    "sectionBkgColor": "#36BCF7",
-    "altSectionBkgColor": "#2563eb",
-    "gridColor": "#36BCF7",
-    "secondaryColor": "#2563eb",
-    "tertiaryColor": "#1e40af"
-  }
-}}%%
-timeline
-    title My Life Timeline
-    2003        : Born in Seoul 🇰🇷
-    2008-2013   : Living in Minnesota 🇺🇸
-                : Experiencing American culture
-    2013        : Return to Seoul 🏠
-    2016-2018   : Whimoon Middle School 📚
-    2019-2021   : Joongdong High School 🎓
-    2023-       : Chung-Ang University 🏛️
-                : Computer Science & Engineering
-```
+<div align="center">
+
+### 📍 **Life Timeline**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center"><strong>🎂 2003</strong></td>
+<td>Born in Seoul 🇰🇷</td>
+</tr>
+<tr>
+<td align="center"><strong>🌎 2008-2013</strong></td>
+<td>Life in Minnesota 🇺🇸<br><em>Experiencing American culture</em></td>
+</tr>
+<tr>
+<td align="center"><strong>🏠 2013</strong></td>
+<td>Back in Seoul</td>
+</tr>
+<tr>
+<td align="center"><strong>📚 2016-2018</strong></td>
+<td>Whimoon Middle School</td>
+</tr>
+<tr>
+<td align="center"><strong>🎓 2019-2021</strong></td>
+<td>Joongdong High School</td>
+</tr>
+<tr>
+<td align="center"><strong>🏛️ 2023-Present</strong></td>
+<td>Chung-Ang University<br><em>Computer Science & Engineering</em></td>
+</tr>
+</table>
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Projects
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -107,7 +113,7 @@ timeline
 <tr>
 <td colspan="2">
 
-### 💰 ProjectExpense (Summer 2025)
+### 💰 Expense (Summer 2025)
 **Personal Finance Tracker**
 - Full-stack web application for expense tracking
 - Clean, intuitive interface for financial management
