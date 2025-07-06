@@ -111,7 +111,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%">
 
 ### 💰 Expense (Summer 2025)
 **Personal Finance Tracker**
@@ -121,6 +121,17 @@
 
 [![Frontend](https://img.shields.io/badge/Frontend-Repository-blue?style=flat-square&logo=react)](https://github.com/vxnquish/expense-frontend)
 [![Backend](https://img.shields.io/badge/Backend-Repository-blue?style=flat-square&logo=node.js)](https://github.com/vxnquish/expense-backend)
+
+</td>
+<td width="50%">
+
+### 🖱️ AutoClicker (Summer 2025)
+**Automated Clicking Tool**
+- Python-based automation utility
+- Configurable click intervals and positions
+- Cross-platform desktop application
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/vxnquish/AutoClicker)
 
 </td>
 </tr>
