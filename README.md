@@ -60,7 +60,7 @@
 ## 🏗️ Projects
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎲 윷놀이 Game (Spring 2025)
 **Traditional Korean Board Game**
@@ -70,7 +70,7 @@
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/vxnquish/CAU_YUTGAME)
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔍 SLR(1) Parser (Spring 2025)
 **Compiler Theory Implementation**
@@ -82,7 +82,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💕 lovemap (Spring 2025)
 **Comprehensive Dating Platform**
@@ -93,7 +93,7 @@
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/vxnquish/OSSW_Ready)
 [![Live](https://img.shields.io/badge/💖_Visit_Website-purple?style=flat-square)](https://rureadylovemap.com)
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧩 Tetris Game (Summer 2025)
 **Classic Game Recreation**
@@ -106,7 +106,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 Expense (Summer 2025)
 **Personal Finance Tracker**
@@ -117,7 +117,7 @@
 [![Frontend](https://img.shields.io/badge/Frontend-Repository-blue?style=flat-square&logo=react)](https://github.com/vxnquish/expense-frontend)
 [![Backend](https://img.shields.io/badge/Backend-Repository-blue?style=flat-square&logo=node.js)](https://github.com/vxnquish/expense-backend)
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🖱️ AutoClicker (Summer 2025)
 **Automated Clicking Tool**
@@ -129,7 +129,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 IG Analytics (Summer 2025)
 **Instagram Profile Analytics Platform**
@@ -140,7 +140,7 @@
 [![Frontend](https://img.shields.io/badge/Frontend-Repository-blue?style=flat-square&logo=react)](https://github.com/Instagram-Analysis/instagram-analytics-FE)
 [![Backend](https://img.shields.io/badge/Backend-Repository-blue?style=flat-square&logo=node.js)](https://github.com/Instagram-Analysis/instagram-analytics-BE)
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 Coming Soon...
 **Next Innovation in Progress**
