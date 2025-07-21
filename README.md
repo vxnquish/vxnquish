@@ -102,7 +102,7 @@
 - Deployed on GitHub Pages
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/vxnquish/Tetris)
-[![Play](https://img.shields.io/badge/🎮_Play_Now-green?style=flat-square)](https://vxnquish.github.io/tetris-react/)
+[![Play](https://img.shields.io/badge/🎮_Play_Now-yellowgreen?style=flat-square)](https://vxnquish.github.io/Tetris/)
 </td>
 </tr>
 <tr>
