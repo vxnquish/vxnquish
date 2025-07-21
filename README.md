@@ -131,14 +131,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📊 IG Analytics (Summer 2025)
-**Instagram Profile Analytics Platform**
-- Full-stack application for Instagram data analysis
-- Real-time metrics and engagement tracking
-- Comprehensive dashboard with data visualization
+### 📱 Unfollowers (Summer 2025)
+**Instagram Insights Chrome Extension**
+- See who follows you, who you follow, and who doesn't follow back
+- No OAuth or 2FA required - leverages browser session
+- Chrome extension with clean, modern interface
 
-[![Frontend](https://img.shields.io/badge/Frontend-Repository-blue?style=flat-square&logo=react)](https://github.com/Instagram-Analysis/instagram-analytics-FE)
-[![Backend](https://img.shields.io/badge/Backend-Repository-blue?style=flat-square&logo=node.js)](https://github.com/Instagram-Analysis/instagram-analytics-BE)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/vxnquish/Unfollowers)
 </td>
 <td width="50%" valign="top">
 
