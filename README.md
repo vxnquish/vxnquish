@@ -8,7 +8,9 @@
 
 ---
 
-## 🎓 About Me
+<details open>
+<summary><strong style="font-size: 1.5em;">🎓 About Me</strong></summary>
+
 **Computer Science & Engineering Student @ Chung-Ang University**  
 
 🌐 Building stunning Frontend Visuals with Backend Strength  
@@ -16,11 +18,12 @@
 🚀 Exploring cutting-edge Technologies and contributing to Open Source  
 🔥 Aspiring to become an exceptional PM & Full Stack Developer
 
-</div>
+</details>
 
 ---
 
-## 🗺️ My Journey
+<details open>
+<summary><strong style="font-size: 1.5em;">🗺️ My Journey</strong></summary>
 
 <div align="center">
 
@@ -55,9 +58,13 @@
 </tr>
 </table>
 
+</details>
+
 ---
 
-## 🏗️ Projects
+<details open>
+<summary><strong style="font-size: 1.5em;">🏗️ Projects</strong></summary>
+
 <table align="center">
 <tr>
 <td width="50%" valign="top">
@@ -158,9 +165,13 @@
 
 </div>
 
+</details>
+
 ---
 
-## 🛠️ Tech Stack
+<details open>
+<summary><strong style="font-size: 1.5em;">🛠️ Tech Stack</strong></summary>
+
 <div align="center">
 
 ### Frontend
@@ -184,10 +195,12 @@
 
 </div>
 
+</details>
+
 ---
 
-
-## 🤝 Let's Connect!
+<details open>
+<summary><strong style="font-size: 1.5em;">🤝 Let's Connect!</strong></summary>
 
 <div align="center">
 
@@ -196,3 +209,5 @@
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/vxnquish)
 
 </div>
+
+</details>
