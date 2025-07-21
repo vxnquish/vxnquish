@@ -1,5 +1,5 @@
 ## 👋 Hello World, I'm **...**
-
+<br>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=27&duration=4000&pause=100&center=true&vCenter=true&random=false&width=435&lines=Heejae+Lee;a.k.a.+Qabin;a+Full+Stack+Developer;%40vxnquish)](https://git.io/typing-svg)
@@ -8,9 +8,7 @@
 
 ---
 
-<details open>
-<summary><strong style="font-size: 1.5em;">🎓 About Me</strong></summary>
-
+## 🎓 About Me
 **Computer Science & Engineering Student @ Chung-Ang University**  
 
 🌐 Building stunning Frontend Visuals with Backend Strength  
@@ -18,12 +16,11 @@
 🚀 Exploring cutting-edge Technologies and contributing to Open Source  
 🔥 Aspiring to become an exceptional PM & Full Stack Developer
 
-</details>
+</div>
 
 ---
 
-<details open>
-<summary><strong style="font-size: 1.5em;">🗺️ My Journey</strong></summary>
+## 🗺️ My Journey
 
 <div align="center">
 
@@ -58,13 +55,9 @@
 </tr>
 </table>
 
-</details>
-
 ---
 
-<details open>
-<summary><strong style="font-size: 1.5em;">🏗️ Projects</strong></summary>
-
+## 🏗️ Projects
 <table align="center">
 <tr>
 <td width="50%" valign="top">
@@ -165,13 +158,9 @@
 
 </div>
 
-</details>
-
 ---
 
-<details open>
-<summary><strong style="font-size: 1.5em;">🛠️ Tech Stack</strong></summary>
-
+## 🛠️ Tech Stack
 <div align="center">
 
 ### Frontend
@@ -195,12 +184,10 @@
 
 </div>
 
-</details>
-
 ---
 
-<details open>
-<summary><strong style="font-size: 1.5em;">🤝 Let's Connect!</strong></summary>
+
+## 🤝 Let's Connect!
 
 <div align="center">
 
@@ -209,5 +196,3 @@
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/vxnquish)
 
 </div>
-
-</details>
