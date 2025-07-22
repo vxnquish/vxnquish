@@ -55,6 +55,8 @@
 </tr>
 </table>
 
+<div>
+
 ---
 
 ## 🏗️ Projects
