@@ -26,9 +26,7 @@
 
 ### 📍 **Life Timeline**
 
-</div>
-
-<table align="center">
+<table>
 <tr>
 <td align="center"><strong>'03</strong></td>
 <td>Born in Seoul 🇰🇷</td>
@@ -55,7 +53,7 @@
 </tr>
 </table>
 
-<div>
+</div>
 
 ---
 
@@ -187,7 +185,6 @@
 </div>
 
 ---
-
 
 ## 🤝 Let's Connect!
 
