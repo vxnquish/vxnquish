@@ -34,8 +34,6 @@ Computer Science & Engineering student at **Chung-Ang University**
 | **SLR(1) Parser** (Spring 2025) | Context-free grammar parser that generates SLR(1) parse trees, built for a compilers course | [Repo](https://github.com/vxnquish/Compiler_SLR1) |
 | **lovemap** (Spring 2025) | Open-source dating platform (backend currently unavailable) | [Repo](https://github.com/vxnquish/lovemap) · [Live](https://rureadylovemap.com) |
 | **Tetris** (Summer 2025) | Classic Tetris built with React, deployed on GitHub Pages | [Repo](https://github.com/vxnquish/Tetris) · [Play](https://vxnquish.github.io/Tetris/) |
-| **Expense** (Summer 2025) | Full-stack personal finance tracker with separate frontend and backend repos | [Frontend](https://github.com/vxnquish/expense-frontend) · [Backend](https://github.com/vxnquish/expense-backend) |
-| **AutoClicker** (Summer 2025) | Python desktop tool with configurable click intervals and positions | [Repo](https://github.com/vxnquish/AutoClicker) |
 | **Unfollowers** (Summer 2025) | Chrome extension that shows who follows you back on Instagram, using your browser session instead of OAuth | [Repo](https://github.com/vxnquish/Unfollowers) |
 
 More on my [repositories page](https://github.com/vxnquish?tab=repositories).
