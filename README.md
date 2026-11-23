@@ -40,6 +40,10 @@ computer science & engineering student at **chung-ang university**
 ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
+**game development**  
+![unity](https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
+
 **database & tools**  
 ![mysql](https://img.shields.io/badge/mysql-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
